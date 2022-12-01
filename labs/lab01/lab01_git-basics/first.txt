@@ -1,0 +1,4 @@
+Merge conflicts test
+My name is vu
+z5311086
+This is lab01 

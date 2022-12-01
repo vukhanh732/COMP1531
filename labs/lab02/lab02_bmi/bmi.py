@@ -1,0 +1,5 @@
+weight = input("What is your weight in kg? ")
+height = input("What is your height in m? ")
+w = float(weight)
+h = float (height)
+print(f"Your BMI is {round(w / (h * h), 1)}")
