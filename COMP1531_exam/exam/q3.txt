@@ -1,0 +1,3 @@
+This statement would fit into design under SDLC. I think this because during design phase, we usually
+draw diagram for different key components of a software to ensure code is efficient. This must be done
+before integration and deployment. 

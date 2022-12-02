@@ -1,0 +1,5 @@
+Continuous integration is done before the deployment of the software while Continuous delivery
+can happen after the deployment of the software. An example for continuous integration is that
+committing all the changes from multiple contributers into a single repository and testing to make sure it's working.
+An example for continuous deployment is COMP1531 this term has used a cloud service "always data" to
+let students deploy their backend to the cloud.

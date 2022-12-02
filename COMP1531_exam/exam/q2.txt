@@ -1,0 +1,3 @@
+This statement would fit into maintenance phase under SDLC. The program has already in production which mean it
+already been tested and everything, and tracking how often the servers go down is process of maintaining 
+the software.

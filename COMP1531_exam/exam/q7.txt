@@ -1,0 +1,2 @@
+LBYL stants for look before you leap. Python is one of language that use this principle and an example for
+this principle is that we check if the code is going to work before actually running the code.
